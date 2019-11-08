@@ -1,5 +1,6 @@
-#!/bin/bash
+﻿#!/bin/bash
 
+#Putting Git test here
 # Office 2016 for Mac presents "first run" dialogs to the user to market some of its new features.
 # This script will suppress these "first run" dialogs using the following settings:
 # 
